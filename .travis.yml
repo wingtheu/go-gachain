@@ -1,0 +1,13 @@
+language: go
+
+go:
+  - 1.9.x
+  - master
+
+go_import_path: github.com/GACHAIN/go-gachain
+
+
+install: true
+
+script: go build github.com/GACHAIN/go-gachain
+
