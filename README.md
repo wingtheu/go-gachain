@@ -1,5 +1,6 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![Build Status](https://travis-ci.org/GACHAIN/go-gachain.svg?branch=master)](https://travis-ci.org/GACHAIN/go-gachain)
 [![Go Report Card](https://goreportcard.com/badge/github.com/GACHAIN/go-gachain)](https://goreportcard.com/report/github.com/GACHAIN/go-gachain)
 ![](https://reposs.herokuapp.com/?path=GACHAIN/go-gachain&style=flat)
 [![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat)](http://gachain.readthedocs.io/zh_CN/latest/)

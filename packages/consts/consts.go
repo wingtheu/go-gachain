@@ -23,7 +23,7 @@
 package consts
 
 // VERSION is current version
-const VERSION = "0.1.6b11"
+const VERSION = "0.1.6b13"
 
 // BLOCK_VERSION is block version
 const BLOCK_VERSION = 1
@@ -71,7 +71,7 @@ const DATA_TYPE_MAX_BLOCK_ID = 10
 const DATA_TYPE_BLOCK_BODY = 7
 
 // UPD_AND_VER_URL is root url
-const UPD_AND_VER_URL = "https://gachain.org"
+const UPD_AND_VER_URL = "http://gachain.org"
 
 // AddressLength is length of address
 const AddressLength = 20
